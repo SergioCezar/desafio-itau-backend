@@ -32,7 +32,7 @@ O armazenamento é feito **em memória**, com suporte a concorrência, garantind
 
 ---
 
-## 🛠Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java 17
 - Spring Boot
